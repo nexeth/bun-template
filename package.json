@@ -1,8 +1,7 @@
 {
-  "name": "mermaid",
+  "name": "@nexeth/bun-template",
   "module": "index.ts",
   "type": "module",
-  "author": "mfbevan",
   "scripts": {
     "start": "bun index.ts",
     "test": "bun test",
