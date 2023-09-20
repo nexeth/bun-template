@@ -9,7 +9,9 @@ Welcome to the Bun project template repository! This template provides a startin
 
 ## Features
 
-- **Bun Ready:** This template is preconfigured with Bun, a fast and simple framework for building web applications.
+- **Bun Ready:** This template is preconfigured with Bun, a fast and simple framework for building web applications.'
+
+- **TypeScript** This template is built with TypeScript and includes a ready to go tsconfig setup
 
 - **ESLint Integration:** Ensure code quality with ESLint, including TypeScript support and a pre-configured set of rules.
 
