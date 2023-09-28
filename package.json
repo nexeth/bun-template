@@ -5,7 +5,8 @@
   "scripts": {
     "start": "bun index.ts",
     "test": "bun test",
-    "lint": "eslint . "
+    "lint": "eslint . ",
+    "build:tsc": "tsc --outDir ./dist"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^6.7.0",

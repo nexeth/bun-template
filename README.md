@@ -4,7 +4,6 @@
   <a href="https://bun.sh"><img src="https://user-images.githubusercontent.com/709451/182802334-d9c42afe-f35d-4a7b-86ea-9985f73f20c3.png" alt="Logo" height=170></a>
 </p>
 
-
 Welcome to the Bun project template repository! This template provides a starting point for creating new projects using [bun](https://bun.sh/). With bun, you can quickly build modern JavaScript and TypeScript applications.
 
 ## Features
@@ -47,34 +46,36 @@ Start building your Bun project by modifying the index.ts file and adding your a
 ### Linting
 
 To lint your code:
+
 ```
 bun lint
 ```
 
-### Tesing
+### Testing
 
 To run tests:
+
 ```
 bun test
 ```
 
-
 ## Directory Structure
+
 The project template follows a typical directory structure for Bun projects:
 
 - `index.ts`: The entry point for your application.
-src/: Directory for your application source code.
-tests/: Directory for your tests.
+  src/: Directory for your application source code.
+  tests/: Directory for your tests.
 - `.eslintrc.cjs`: ESLint configuration file.
 - `package.json`: Project configuration, including scripts and dependencies.
 - `/modules`: Contains the modules you are creating
 - `/types`: Contains TypeScript types that are shared across your repository
 - `/test`: Contains tests for the modules you have created
 
-
 ## Contributing
+
 If you have suggestions, bug reports, or would like to contribute to this project template, please open an issue or submit a pull request on the GitHub repository.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
+This project is licensed under the MIT License - see the LICENSE file for details.
